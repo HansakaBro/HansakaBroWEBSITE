@@ -11,6 +11,6 @@
 
 
 ## Thanks To
-- [@adiwajshing](https://github.com/UvinduBro) 
-- [@itacirgabral](www.chanuxbro.com)
+- [@UvinduBro](https://github.com/UvinduBro) 
+- [@ChanuxBro](www.chanuxbro.com)
 
