@@ -1,9 +1,9 @@
 # [HansakaBro Official Website](https://www.hansakabro.tk/)
 
 
-### Made with [Chanux Bro](https://www.chanuxbro.com) and [Uvindu Bro](https://www.uvindubro.tk) Theme
+### Made with [Chanux Bro](https://www.chanuxbro.com) Theme
 
-#####  So Theme Credits goes to [Chanux Bro](https://www.chanuxbro.com) and [Uvindu Bro](https://www.uvindubro.tk)
+#####  So Theme Credits goes to [Chanux Bro](https://www.chanuxbro.com) 
 
 
 
